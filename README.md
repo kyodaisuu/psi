@@ -1,2 +1,0 @@
-# psi
-Buchholz ψ analyzer
