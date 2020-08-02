@@ -31,7 +31,7 @@ a = '0(1(2(0)),w,2)'  # ordinal string
 print(ordinal(a).T)  # a ∈ T as array
 print(ordinal(a).strT)  # String of a ∈ T
 print(ordinal(a).isPT)  # If a is principal term
-print(ordinal(a).isOT)  # If a ∉ OT
+print(ordinal(a).isOT)  # If a ∈ OT
 print(ordinal(a).strOT)  # b ∈ OT where o(a) = o(b)
 print(ordinal(a).ord)  # ordinal expression
 print(ordinal(a).simple)  # Simplified ordinal expression
